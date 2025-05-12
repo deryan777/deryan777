@@ -3,6 +3,7 @@
 ### 👨‍💻 About me
 - I study software engineering and web development
 - I work primarily as a Full Stack Developer
+- I am currently an intern at VB LOG
 
 ### 🛠 Language and tools
 <div>
