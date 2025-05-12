@@ -26,6 +26,6 @@
 <div>
   <a href="https://github.com/HeyVds">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HeyVds&show_icons=true&theme=radical"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyVds&layout=compact&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deryan777&layout=compact&theme=radical"/>
   </a>
 </div>
