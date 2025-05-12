@@ -21,6 +21,8 @@
 
 ### ⭐ GitHub stats and most used technologies
 <div>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deryan777&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <a href="https://github.com/HeyVds">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HeyVds&show_icons=true&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyVds&layout=compact&theme=radical"/>
+  </a>
 </div>
