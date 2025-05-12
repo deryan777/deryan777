@@ -5,6 +5,8 @@
 - I work primarily as a Full Stack Developer
 - I am currently an intern at VB LOG
 
+<img src="https://i.pinimg.com/originals/44/94/40/4494406b0e685995eaeb744e1ff0919c.gif"/>
+
 ### 🛠 Language and tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs logo"  />&nbsp;
