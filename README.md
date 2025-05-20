@@ -6,8 +6,8 @@
 - I am currently an intern at VB LOG
 
 <img src="https://i.pinimg.com/originals/44/94/40/4494406b0e685995eaeb744e1ff0919c.gif"/>
-
-### 🛠 Language and tools
+<div align=center>
+  <h1>🛠 Language and tools</h1>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs logo"  />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react logo"  />&nbsp;
@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git logo" />&nbsp;
   <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+</div>
 </div>
 
 ### 📱 Contact
