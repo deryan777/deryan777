@@ -29,7 +29,7 @@
 
 ### ⭐ GitHub stats and most used technologies
 <div align=center>
-  <a href="https://github.com/HeyVds">
+  <a href="https://github.com/deryan777">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=deryan777&show_icons=true&theme=radical"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deryan777&layout=compact&theme=radical"/>
   </a>
