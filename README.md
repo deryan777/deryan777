@@ -5,7 +5,7 @@
 - I work primarily as a Full Stack Developer
 - I am currently an intern at VB LOG
 
-<img src="https://i.pinimg.com/originals/44/94/40/4494406b0e685995eaeb744e1ff0919c.gif"/>
+<img width="100%" height="300" src="https://i.pinimg.com/originals/44/94/40/4494406b0e685995eaeb744e1ff0919c.gif"/>
 <div align=center>
   <h1>🛠 Language and tools</h1>
 <div>
