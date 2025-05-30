@@ -18,6 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git logo" />&nbsp;
   <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
+ <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS logo" />&nbsp;
+
+
+
 
 
 </div>
